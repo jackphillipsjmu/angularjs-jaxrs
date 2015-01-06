@@ -1,0 +1,10 @@
+{
+  "name": "angularjs-jaxrs",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.3.5",
+    "jquery": ">= 1.9.1",
+    "bootstrap": "~3.3.0"
+  }
+}
